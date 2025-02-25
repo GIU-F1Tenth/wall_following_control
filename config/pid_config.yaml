@@ -1,0 +1,13 @@
+steering_node:
+  ros__parameters:
+    scan_topic: "/scan"
+    drive_topic: "/drive"
+    is_right_wall: True
+    speed: 2.2
+    boost: 3.2
+    reference_angle: -60.0
+    goal_distance: 1.0
+    max_steering: 0.75
+    kp: 1.6
+    kd: 2.25
+    ki: 0.0
