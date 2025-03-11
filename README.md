@@ -1,4 +1,3 @@
-```markdown
 # F1Tenth Wall-Following Control
 
 ## Overview
@@ -85,4 +84,3 @@ Modify these values to fine-tune the PID controller.
 
 ## License
 This project is licensed under the MIT License.
-```
