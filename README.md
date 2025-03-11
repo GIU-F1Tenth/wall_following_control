@@ -82,5 +82,3 @@ Modify these values to fine-tune the PID controller.
 - Add support for left-wall following.
 - Improve handling of sharp turns and obstacles.
 
-## License
-This project is licensed under the MIT License.
